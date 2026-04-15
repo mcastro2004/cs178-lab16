@@ -1,5 +1,5 @@
 """
-CS 178 - Lab 16: Serverless Image Processing with AWS Lambda + S3
+CS 178 - Lab 16!: Serverless Image Processing with AWS Lambda + S3
 app.py — Flask web server
 
 This app lets a user upload an image through a web form.
